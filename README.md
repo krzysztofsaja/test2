@@ -1,3 +1,3 @@
-# Moja testowa dukumentacja projektu GIT
+# Moja testowa dokumentacja projektu GIT
 
 To jest test
